@@ -66,6 +66,10 @@ different set of quirks handled during cleaning (currency conversion, a packed
 `lat-lon` string column, missing coordinates). See notebook 01 for the full
 cleaning rationale.
 
+## Tech Stack
+- Python, Pandas, NumPy
+- Matplotlib, Seaborn
+
 ## Methods Used
 
 - pandas method chaining, tidy-data cleaning
